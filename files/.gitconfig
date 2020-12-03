@@ -7,7 +7,7 @@
 	ui = auto
 [core]
 	excludesfile = /home/mari/.gitignore
-	editor = code
+	editor = code --wait
 [github]
 	user = marianacelyvelasquez
 [diff]
